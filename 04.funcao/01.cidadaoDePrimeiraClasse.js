@@ -30,6 +30,6 @@ function soma(a,b) {
 }
 
 soma(2, 3)(5)
-// Tambem pode ser esrita desas forma ->
+// Tambem pode ser esrita dessa forma ->
 const cincoMais = soma (2, 3)
 cincoMais(5)
